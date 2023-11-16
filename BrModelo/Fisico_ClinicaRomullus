@@ -1,0 +1,7 @@
+/* Lógico_1: */
+
+CREATE TABLE Medico (
+    Id INT PRIMARY KEY,
+    CRM NCHAR(8),
+    Nome VARCHAR(70)
+);
